@@ -1,0 +1,9 @@
+
+# 样例依赖，按需调整版本
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+alembic
+python-dotenv
+httpx
